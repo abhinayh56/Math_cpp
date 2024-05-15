@@ -7,6 +7,6 @@
 #define const_math_e   2.7182818284590452353602874713527
 #define const_math_inf  99999999999999999999999.0
 
-#define env_g  9.81
+#define const_env_g  9.81
 
 #endif
